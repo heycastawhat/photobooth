@@ -1,2 +1,3 @@
-# photobooth
-Essentially version 2 of fossbooth but more event focused
+# Kiwibooth
+---
+A custom photobooth designed for stuff
